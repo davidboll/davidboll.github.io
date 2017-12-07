@@ -1,0 +1,17 @@
+
+.callout.large, .callout.primary {
+    background:#336699;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+h3 {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+p.lead {
+  color: #ffffff;
+}
